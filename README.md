@@ -22,8 +22,9 @@ All you have to do is create a new variable and initialise it to Image.new(), re
 
 Drawing The Lines
 
-Artwork produced from my code.
+To start this process, initialise a variable to ImageDraw.Draw() and input the image you wish to work on. Subsequently, I created several variables to be used as parameters for .line() as can be seen in line_xy, line_color and thickness. I did this on my overlay and added it to the earlier image using ImageChops.add().
 
+The photos below are images created using my code.
 
 ![example 1](https://github.com/MoriyaHiroshi/Generative-Art-Python-/assets/101780253/a8abf9a1-ac86-448e-8b41-da0cff0fc990)
 ![example 2](https://github.com/MoriyaHiroshi/Generative-Art-Python-/assets/101780253/452db4c8-6928-41f7-8c96-c7fe1438a07b)
